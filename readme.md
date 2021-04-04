@@ -46,7 +46,7 @@ If you would like to create a new command please see samplecommand.js
         - color | allows assignment of in game color via scoreboard teams
         - command-add | allows you to upload a js file from discord as a new command
         - execute | allows you to execute a command via rcon
-        - op | grants op to a play via rcon
+        - op | grants op to a player via rcon
         - reload | reload a command from disk
 * Member only
     * The bot member role id can be specified in config.json
