@@ -25,7 +25,7 @@ The bot is still a work in progress, some commands may not fully function or the
 
 ## Help
 
-If you run into any issues, please contact AFunkyMonk#9467 on discord. Or on the hypnos discord https://discord.gg/BKadJsM
+If you run into any issues, please contact AFunkyMonk#9467 on discord. Or on the [Hypnos Discord](https://discord.gg/BKadJsM)
 
 ## Authors
 
@@ -59,6 +59,7 @@ If you would like to create a new command please see samplecommand.js
         - location | creates an editable embed of coord locations
         - structure | allows you to download structure files from cmps
 * Public
+    * Commands available for public user
         - age | displays the age of the server
         - hardware | displays embed of hardware
         - help | this command does magic
