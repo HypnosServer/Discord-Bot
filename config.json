@@ -1,0 +1,20 @@
+{
+    "prefix": "&",
+    "token": "XXX",
+    "adminRole": "XXX",
+    "memberRole": "XXX",
+    "footer": "XXX",
+    "color": "#00A1BA",
+    "WorldName": "XXX",
+    "cmpWorldName": "XXX",
+    "ServerPath": "XXX",
+    "host": "XXX",
+    "cmppass": "XXX",
+    "chatbridge": "XXX",
+    "cmp": "XXX",
+    "cmp2": "XXX",
+    "smpcopy": "XXX",
+    "botstatus": "bestnos",
+    "grinderRole": "XXX"
+}
+
