@@ -12,7 +12,7 @@ The bot is still a work in progress, some commands may not fully function or the
 * Node 11 or higher
 
 ### Installing
-
+* clone the repository with $ git clone https://github.com/HypnosServer/Discord-Bot.git or download and unzip the latest release
 * Windows: Run the download.bat file
 * Linux: ./download.sh
 * Fill out config.json
@@ -25,7 +25,7 @@ The bot is still a work in progress, some commands may not fully function or the
 
 ## Help
 
-If you run into any issues, please contact AFunkyMonk#9467 on discord. Or on the [Hypnos Discord](https://discord.gg/BKadJsM)
+If you run into any issues, please contact AFunkyMonk#9467 on discord. Or join the [Hypnos Discord](https://discord.gg/BKadJsM)
 
 ## Authors
 
